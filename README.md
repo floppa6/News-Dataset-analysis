@@ -1,4 +1,4 @@
-# Analisis the News category Dataset
+# Analisying the News category Dataset
 
 Data set cleaning and analysis method
 [News category Dataset](https://www.kaggle.com/rmisra/news-category-dataset)
