@@ -30,14 +30,6 @@ pip install -r requirements.txt
 ```
 
 
-## Autor
-
-* **Mario Javier Gonzalez Gil**
-
-
-
-
-
 # News category Dataset analysis
 
 Method of cleaning and analysis of the data set
